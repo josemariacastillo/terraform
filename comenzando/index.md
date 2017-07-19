@@ -26,7 +26,7 @@ resource "mysql_user" "josemaria" {
 }
 ~~~
 
-###Creando un plan de ejecución
+### Creando un plan de ejecución
 Ahora procedemos a ejecutar el comando terraform apply para crear nuestra base de datos y el usuario en en el servidor mysql.
 
 ![](imagenes/1.png)
