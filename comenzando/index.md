@@ -69,5 +69,5 @@ Nos dirigimos al directorio donde se ha generado la imagen y la abrimos con el v
 
 Para visualizar el plan de ejecución ejecutaremos el comando terraform show.
 
-![](imagenes/8.png)
+![](imagenes/c8.png)
 
